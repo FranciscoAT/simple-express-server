@@ -1,5 +1,7 @@
 # Simple Express Server (Cliff-notes)
 
+This is a repo in reference to [this](https://medium.com/@ftrindademe/guide-to-your-first-express-js-server-512d4176a57) medium article on how to build a simple Express server
+
 ## Note
 
 If you want a really simple server I recommend the following notes in this readme. However otherwise I would __highly__ recommend [Express-Generator](https://expressjs.com/en/starter/generator.html).
